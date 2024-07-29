@@ -27,3 +27,8 @@ a:active {
     color: red;
     text-decoration: underline;
 }
+
+/*================================================================================*/
+#welcome a {
+    color: Red;
+}
