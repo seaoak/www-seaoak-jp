@@ -51,6 +51,27 @@ h3 + ul {
     margin-top: 0;
 }
 
+/*================================================================================*/
+@font-face {
+    /*
+      https://fonts.google.com/specimen/Caveat
+    */
+    font-family: 'Caveat';
+    src: url('Caveat-VariableFont_wght.ttf') format('woff2 supports variations'),
+         url('Caveat-VariableFont_wght.ttf') format('woff2-variations');
+    font-weight: 400 700;
+}
+
+h1 {
+    font-family: Caveat, Georgia, 'Times New Roman', Times, serif;
+    color: darkcyan;
+    text-shadow: 1px 1px 2px #999;
+    font-size: 96px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+/*================================================================================*/
 h2 {
     color: darkcyan;
     font-weight: bold;
