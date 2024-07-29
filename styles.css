@@ -1,6 +1,7 @@
 body {
     line-height: 1.8;
     font-family: "Consolas", "Verdana", "Helvetica Neue", "Helvetica", "Arial", "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Yu Gothic", "Meiryo", sans-serif;
+    font-size: 16px;
 }
 
 pre {
@@ -35,6 +36,14 @@ body > *:not(hr) {
 
 h2, h3, h4 {
     margin: 0;
+}
+
+body > ul {
+    margin-left: 0;
+}
+
+div > ul {
+    padding-left: 24px;
 }
 
 h2 + ul,
