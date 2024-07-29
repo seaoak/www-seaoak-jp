@@ -71,6 +71,12 @@ h1 {
     margin-bottom: 0;
 }
 
+#logo {
+    position: absolute;
+    top: 36px;
+    left: 480px;
+}
+
 /*================================================================================*/
 h2 {
     color: darkcyan;
