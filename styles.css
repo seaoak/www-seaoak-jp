@@ -76,7 +76,7 @@ h1 {
     left: 480px;
 }
 
-#banner_for_lab h4 {
+#banner_for_works h4 {
     font-family: Caveat, Georgia, 'Times New Roman', Times, serif;
 }
 
@@ -105,12 +105,12 @@ body > ul > li {
     z-index: 2;
 }
 
-#banner_for_lab {
+#banner_for_works {
     position: relative;
     top: 0;
-    left: 64px;
+    left: 32px;
     height: 48px;
-    width: 310px;
+    width: 330px;
     margin: 0 0 36px 0;
     padding: 0;
 
@@ -147,7 +147,7 @@ body > ul > li {
     }
 
     p::after {
-        content: '\20 \279C';
+        content: '\279C';
     }
 
     a {
